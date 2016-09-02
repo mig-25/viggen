@@ -1,0 +1,22 @@
+{
+  "name": "viggen",
+  "version": "1.0.0",
+  "description": "saab rules!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mig-25/viggen.git"
+  },
+  "author": "Sohail Hasware <saab.viggen@live.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mig-25/viggen/issues"
+  },
+  "homepage": "https://github.com/mig-25/viggen#readme",
+  "devDependencies": {
+    "gulp": "3.9.1"
+  }
+}
